@@ -1,3 +1,3 @@
-# IndixHackathon
+# Hackathons
 
-Contents of this repo are submission for ML Hackathon conducted by Indix, Chennai in the month of April, 2016.
+This repo contains code of various hackathons participated.
